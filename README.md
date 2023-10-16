@@ -2,8 +2,8 @@
 
 ## Repositories
 
-- [wps-dpetty.github.io](https://github.com/wps-dpetty.github.io)
-- [princeton](https://github.com/princeton)
+- [wps-dpetty.github.io](https://github.com/wps-dpetty//wps-dpetty.github.io)
+- [princeton](https://github.com/wps-dpetty/princeton)
 
 ## Organizations
 
