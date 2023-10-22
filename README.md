@@ -13,11 +13,11 @@ The [Github](https://github.com/wps-dpetty/) account of [David C. Petty](http://
 
 | Link | Description |
 | --- | --- |
-| [2016-2017-wps-apcs-a](https://github.com/2016-2017-wps-apcs-a) | 2016&ndash;2017 APCS A-Block class |
-| [2016-2017-wps-apcs-f](https://github.com/2016-2017-wps-apcs-f) | 2016&ndash;2017 APCS F-Block class |
 | [wps-2014-2015-apcs](https://github.com/wps-2014-2015-apcs) | 2014&ndash;2015 APCS class |
 | [wps-2015-2016-apcs-a](https://github.com/wps-2015-2016-apcs-a) | 2015&ndash;2016 APCS A-Block class |
 | [wps-2015-2016-apcs-f](https://github.com/wps-2015-2016-apcs-f) | 2015&ndash;2016 APCS F-Block class |
+| [wps-2016-2017-apcs-a](https://github.com/wps-2016-2017-apcs-a) | 2016&ndash;2017 APCS A-Block class |
+| [wps-2016-2017-apcs-f](https://github.com/wps-2016-2017-apcs-f) | 2016&ndash;2017 APCS F-Block class |
 | [wps-2017-2018-apcs](https://github.com/wps-2017-2018-apcs) | 2017&ndash;2018 APCS class |
 
 <hr>
